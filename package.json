@@ -1,0 +1,25 @@
+{
+  "name": "caps-phase-2-vendor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node vendor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJSOmega/caps-phase-2-vendor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJSOmega/caps-phase-2-vendor/issues"
+  },
+  "homepage": "https://github.com/TJSOmega/caps-phase-2-vendor#readme",
+  "dependencies": {
+    "faker": "^5.5.2",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  }
+}
